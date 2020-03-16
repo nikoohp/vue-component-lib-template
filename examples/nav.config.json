@@ -1,0 +1,48 @@
+{
+  "nav": [
+    {
+      "name": "开发指南",
+      "children": [
+        {
+          "name": "site-index",
+          "path": "/"
+        },
+        {
+          "name": "introduce",
+          "path": "/introduce",
+          "desc": "介绍"
+        },
+        {
+          "name": "start",
+          "path": "/start",
+          "desc": "快速上手"
+        },
+        {
+          "name": "contribute",
+          "path": "/contribute",
+          "desc": "开发指南"
+        }
+      ]
+    },
+    {
+      "name": "组件",
+      "groups": [
+        {
+          "groupName": "common",
+          "list": [
+            {
+              "name": "demo",
+              "path": "/demo",
+              "desc": "Demo 示例"
+            },
+            {}
+          ]
+        },
+        {
+          "groupName": "business",
+          "list": []
+        }
+      ]
+    }
+  ]
+}
